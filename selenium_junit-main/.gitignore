@@ -1,0 +1,3 @@
+### Ignore files in folders:
+.idea/*
+target/
