@@ -9,6 +9,7 @@ public class OrdersPage extends BasePage {
     By passwordInput = By.id("password");
     By submitButton = By.id("login-button");
     By headerLogo = By.cssSelector(".app_logo");
+    //this is a comment
 
 
 
